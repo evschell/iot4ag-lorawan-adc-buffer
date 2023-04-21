@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "LoRaWAN ADC-Buffer")
+    (company "OATS-IoT4Ag")
+    (comment 1 "by Edinson F Adarme")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Instrumentation:AD8236" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 3.81 7.62 0)
@@ -1242,7 +1248,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 46.482 70.866 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02ff3d6e-f7fd-401d-acdc-db82087b4fee)
     (property "Reference" "H6" (at 45.212 65.532 90)
       (effects (font (size 1.27 1.27)))
@@ -1267,7 +1273,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 232.41 41.275 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 058f4b6d-c25f-484e-9f5e-e9806f89c072)
     (property "Reference" "H1" (at 234.95 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1393,7 +1399,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 46.228 80.264 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 125ec2c7-e50c-442d-b41d-e07eebbf5764)
     (property "Reference" "H5" (at 44.958 74.168 90)
       (effects (font (size 1.27 1.27)))
@@ -1579,7 +1585,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 233.68 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 45ca0e37-36c9-4dc3-a9d8-ee8506f8669b)
     (property "Reference" "H4" (at 236.22 74.295 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1782,7 +1788,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 233.045 52.07 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 75e8f9ba-a78a-462a-a2b0-389417a6eb02)
     (property "Reference" "H2" (at 235.585 50.165 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1833,7 +1839,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 46.482 62.992 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 808e6804-6aa6-450b-a0fa-a35ba12b1221)
     (property "Reference" "H7" (at 45.212 57.658 90)
       (effects (font (size 1.27 1.27)))
@@ -2269,7 +2275,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 46.228 53.34 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b428132f-5cd5-494a-be81-da93b9fe53c4)
     (property "Reference" "H8" (at 44.958 48.26 90)
       (effects (font (size 1.27 1.27)))
@@ -2294,7 +2300,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 233.68 64.135 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b88e4efa-6d2f-48fb-8358-d7c8ea69659a)
     (property "Reference" "H3" (at 236.22 62.23 0)
       (effects (font (size 1.27 1.27)) (justify left))
