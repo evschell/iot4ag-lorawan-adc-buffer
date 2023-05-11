@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.5,
-          "height": 3.5,
-          "width": 3.5
+          "drill": 2.7,
+          "height": 2.7,
+          "width": 2.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -172,7 +172,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.6
       ],
       "via_dimensions": [
         {
@@ -402,7 +403,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "opamps"
+    ]
   },
   "meta": {
     "filename": "UPenn_OpAmp.kicad_pro",
@@ -441,7 +444,7 @@
       "idf": "",
       "netlist": "UPenn_V1.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "UPenn_OpAmp.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
